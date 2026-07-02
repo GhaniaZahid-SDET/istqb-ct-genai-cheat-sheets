@@ -8,14 +8,14 @@ This repository serves as a centralized, highly scannable digital companion cont
 
 ## 📥 Individual Chapter PDF Downloads
 
-Each PDF is meticulously aligned with the official syllabus learning objectives (K-Levels) and lecture focuses:
+Each PDF is meticulously aligned with the official syllabus learning objectives (K-Levels) and lecture focuses. Click directly on the links below to view or download:
 
-* 🌐 **[Chapter 1: Introduction to Generative AI for Software Testing](./ISTQB_CT_GenAI_Chapter_1_CheatSheet.pdf)** *Focus (100 mins):* AI Spectrum (Symbolic to GenAI), Tokenization, Embeddings, Context Windows, and Model Archetypes (Foundation vs. Instruction-Tuned vs. Reasoning).
-* ✍️ **[Chapter 2: Prompt Engineering for Effective Software Testing](./ISTQB_CT_GenAI_Chapter_2_CheatSheet.pdf)** *Focus (365 mins):* The 6-Component Prompt Blueprint, Prompt Chaining, Few-Shot Prompting, Meta-Prompting, and Visible Evaluation Metrics.
-* 🛡️ **[Chapter 3: Managing Risks of Generative AI in Software Testing](./ISTQB_CT_GenAI_Chapter_3_CheatSheet.pdf)** *Focus (160 mins):* Hallucinations, Reasoning Errors, Bias detection, Security Attack Vectors (Data Exfiltration, request manipulation), Data Anonymization, and Global Regulations (EU AI Act, NIST RMF).
-* 🏗️ **[Chapter 4: LLM-Powered Test Infrastructure for Software Testing](./ISTQB_CT_GenAI_Chapter_4_CheatSheet.pdf)** *Focus (110 mins):* Infrastructure Multi-Component Blueprints, Retrieval-Augmented Generation (RAG) pipelines, Vector Databases, Autonomous Testing Agents, and Small Language Model (SLM) Fine-Tuning.
-* 🚀 **[Chapter 5: Deploying and Integrating Generative AI in Test Organizations](./ISTQB_CT_GenAI_Chapter_5_CheatSheet.pdf)** *Focus (80 mins):* Defending against Shadow AI, Model Evaluation Matrices, ROI/Cost Estimation, Lifecycle Milestones, and the Professional Shift in Tester/Manager Responsibilities.
-* 📋 **[Chapter 6: Standards, Guidelines, and Reference Lexicon](./ISTQB_CT_GenAI_Chapter_6_CheatSheet.pdf)** *Focus (Reference Material):* Complete terminology dictionary and mapping references to `ISO/IEC 42001:2023` and `ISO/IEC 23053:2022`.
+* 🌐 **[Chapter 1: Introduction to Generative AI for Software Testing](ISTQB_CT_GenAI_Chapter_1_CheatSheet.pdf)** *Focus (100 mins):* AI Spectrum (Symbolic to GenAI), Tokenization, Embeddings, Context Windows, and Model Archetypes.
+* ✍️ **[Chapter 2: Prompt Engineering for Effective Software Testing](ISTQB_CT_GenAI_Chapter_2_CheatSheet.pdf)** *Focus (365 mins):* The 6-Component Prompt Blueprint, Prompt Chaining, Few-Shot Prompting, Meta-Prompting, and Visible Evaluation Metrics.
+* 🛡️ **[Chapter 3: Managing Risks of Generative AI in Software Testing](ISTQB_CT_GenAI_Chapter_3_CheatSheet.pdf)** *Focus (160 mins):* Hallucinations, Reasoning Errors, Bias detection, Security Attack Vectors (Data Exfiltration, request manipulation), Data Anonymization, and Global Regulations.
+* 🏗️ **[Chapter 4: LLM-Powered Test Infrastructure for Software Testing](ISTQB_CT_GenAI_Chapter_4_CheatSheet.pdf)** *Focus (110 mins):* Infrastructure Multi-Component Blueprints, Retrieval-Augmented Generation (RAG) pipelines, Vector Databases, Autonomous Testing Agents, and Small Language Model (SLM) Fine-Tuning.
+* 🚀 **[Chapter 5: Deploying and Integrating Generative AI in Test Organizations](ISTQB_CT_GenAI_Chapter_5_CheatSheet.pdf)** *Focus (80 mins):* Defending against Shadow AI, Model Evaluation Matrices, ROI/Cost Estimation, Lifecycle Milestones, and the Professional Shift in Tester/Manager Responsibilities.
+* 📋 **[Chapter 6: Standards, Guidelines, and Reference Lexicon](ISTQB_CT_GenAI_Chapter_6_CheatSheet.pdf)** *Focus (Reference Material):* Complete terminology dictionary and mapping references to `ISO/IEC 42001:2023` and `ISO/IEC 23053:2022`.
 
 ---
 
