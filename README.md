@@ -4,16 +4,16 @@ Welcome to the official repository for the **ISTQB® Certified Tester Specialist
 
 ---
 
-## 📥 Individual Chapter PDF Downloads
+## 📥 Individual Chapter Study Guides
 
-Click the direct absolute links below to download the official cheat sheet PDFs:
+Click the links below to view the interactive chapter summaries directly inside GitHub:
 
-* 🌐 **[Download Chapter 1 Guide](https://github.com/shanzay34/istqb-ct-genai-cheat-sheets/raw/main/ISTQB_CT_GenAI_Chapter_1_CheatSheet.pdf)**
-* ✍️ **[Download Chapter 2 Guide](https://github.com/shanzay34/istqb-ct-genai-cheat-sheets/raw/main/ISTQB_CT_GenAI_Chapter_2_CheatSheet.pdf)**
-* 🛡️ **[Download Chapter 3 Guide](https://github.com/shanzay34/istqb-ct-genai-cheat-sheets/raw/main/ISTQB_CT_GenAI_Chapter_3_CheatSheet.pdf)**
-* 🏗️ **[Download Chapter 4 Guide](https://github.com/shanzay34/istqb-ct-genai-cheat-sheets/raw/main/ISTQB_CT_GenAI_Chapter_4_CheatSheet.pdf)**
-* 🚀 **[Download Chapter 5 Guide](https://github.com/shanzay34/istqb-ct-genai-cheat-sheets/raw/main/ISTQB_CT_GenAI_Chapter_5_CheatSheet.pdf)**
-* 📋 **[Download Chapter 6 Guide](https://github.com/shanzay34/istqb-ct-genai-cheat-sheets/raw/main/ISTQB_CT_GenAI_Chapter_6_CheatSheet.pdf)**
+* 🌐 **[View Chapter 1 Guide](ISTQB_CT_GenAI_Chapter_1_CheatSheet.md)**
+* ✍️ **[View Chapter 2 Guide](ISTQB_CT_GenAI_Chapter_2_CheatSheet.md)**
+* 🛡️ **[View Chapter 3 Guide](ISTQB_CT_GenAI_Chapter_3_CheatSheet.md)**
+* 🏗️ **[View Chapter 4 Guide](ISTQB_CT_GenAI_Chapter_4_CheatSheet.md)**
+* 🚀 **[View Chapter 5 Guide](ISTQB_CT_GenAI_Chapter_5_CheatSheet.md)**
+* 📋 **[View Chapter 6 Guide](ISTQB_CT_GenAI_Chapter_6_CheatSheet.md)**
 
 ---
 *Feel free to fork this repository or star it ⭐ if it helps your QA study journey!*
